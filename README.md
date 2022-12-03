@@ -23,3 +23,12 @@ List: It is basically in another language known as arrays, but in Dart they are 
 ![Map](https://user-images.githubusercontent.com/62777613/205444588-70b3ff95-94d6-4665-bbba-32f2ee901ced.png)
 
 Map: Used to store key/value pairs.
+
+![Funciones-Dart](https://user-images.githubusercontent.com/62777613/205458040-caf538ea-022f-4347-bd28-88d9e8743163.png)
+
+Functions in Dart: Functions in Dart behave
+as first-class objects, which means that they can be stored in a variable, passed as an argument, or returned, like a normal function return value.
+
+![Classe-Dart](https://user-images.githubusercontent.com/62777613/205458042-9f8be7e2-95f9-4d0c-8d6e-c5d1a68ae68a.png)
+
+Classes in Dart: It is an object-oriented language with classes and inheritance based, with each object being an instance of a class.
