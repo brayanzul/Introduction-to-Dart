@@ -32,3 +32,24 @@ as first-class objects, which means that they can be stored in a variable, passe
 ![Classe-Dart](https://user-images.githubusercontent.com/62777613/205458042-9f8be7e2-95f9-4d0c-8d6e-c5d1a68ae68a.png)
 
 Classes in Dart: It is an object-oriented language with classes and inheritance based, with each object being an instance of a class.
+
+![Funciones-Dart](https://user-images.githubusercontent.com/62777613/205499996-7c48645e-a146-4917-a1c4-56826ba6e617.png)
+
+Functions in Dart: Functions in Dart behave
+as first-class objects, which means that they can be stored in a variable, passed as an argument, or returned, like a normal function return value.
+
+![Classe-Dart](https://user-images.githubusercontent.com/62777613/205500019-76d04e87-ffaf-4d68-ac81-9f0b4589ca58.png)
+
+Classes in Dart: It is an object-oriented language with classes and inheritance based, with each object being an instance of a class.
+
+![Constructores](https://user-images.githubusercontent.com/62777613/205500032-98d7fba7-1ffd-4a38-b4c2-eced705ab4c9.png)
+
+Conatractors: They are the methods that are created when creating an instance of the class, in simpler words, the default main method.
+
+![getters-setters](https://user-images.githubusercontent.com/62777613/205500046-2ad50ea2-f84e-4220-832e-8d9119f95064.png)
+
+Getters and Setters are class methods that are used to manipulate data in class fields.
+
+- Getters: It is used to read or obtain the class field data.
+
+- Setters: It is used to set the data of the class field in some variable.
