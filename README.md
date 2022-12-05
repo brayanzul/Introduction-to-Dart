@@ -53,3 +53,13 @@ Getters and Setters are class methods that are used to manipulate data in class 
 - Getters: It is used to read or obtain the class field data.
 
 - Setters: It is used to set the data of the class field in some variable.
+
+![Clases-Abstracta](https://user-images.githubusercontent.com/62777613/205708133-3492b556-49d5-45ae-9256-3cb6e611030d.png)
+
+Abstract Classes: An abstract class in Dart is defined as those classes that contain one or more than one abstract method.
+
+![Extends](https://user-images.githubusercontent.com/62777613/205708530-b76bb2e8-7cb3-4151-8643-4a6e68336eb3.png)
+
+Extends: The objective of inheritance is to allow us to reuse, extend or change the behavior of 
+an existing class called superClass, in new classes, called derived or child classes, in Dart we 
+can inherit from a single class, but inheritance is transitive.
