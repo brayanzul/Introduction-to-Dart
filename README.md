@@ -68,6 +68,13 @@ can inherit from a single class, but inheritance is transitive.
 
 ![Mixins1](https://user-images.githubusercontent.com/62777613/205791771-34ff946d-130d-49b4-8548-f6ec76e2278c.png)
 
-
 Mixins: It is a function of Dart that allows us to add specific characteristics to a class 
 instance or to a particular class, in order to reuse information.
+
+![Funciones-Dart](https://user-images.githubusercontent.com/62777613/205941770-88a4177a-83dc-43a3-8c26-dcacbcf4d5f1.png)
+
+Futures:
+It is one of the most basic APIs that Dart has for handling async. Most modern languages 
+have some kind of support for asynchronous programming.
+
+
