@@ -63,3 +63,11 @@ Abstract Classes: An abstract class in Dart is defined as those classes that con
 Extends: The objective of inheritance is to allow us to reuse, extend or change the behavior of 
 an existing class called superClass, in new classes, called derived or child classes, in Dart we 
 can inherit from a single class, but inheritance is transitive.
+
+![Mixins](https://user-images.githubusercontent.com/62777613/205791748-3d741af4-7a69-459e-bfe0-2e8c8b2a2beb.png)
+
+![Mixins1](https://user-images.githubusercontent.com/62777613/205791771-34ff946d-130d-49b4-8548-f6ec76e2278c.png)
+
+
+Mixins: It is a function of Dart that allows us to add specific characteristics to a class 
+instance or to a particular class, in order to reuse information.
