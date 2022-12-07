@@ -77,4 +77,8 @@ Futures:
 It is one of the most basic APIs that Dart has for handling async. Most modern languages 
 have some kind of support for asynchronous programming.
 
+![Async_Await](https://user-images.githubusercontent.com/62777613/206226419-8ebe565b-f74a-47b7-aff1-bb3e4436bc58.png)
 
+Async-Await:
+- Async: An async function is a function whose body is marked with the async modifier. Adding this keyword causes it to return a future.
+- Await: The await expression causes the execution to stop until that object is available.
